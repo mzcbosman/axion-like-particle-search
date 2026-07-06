@@ -1,7 +1,12 @@
-# MVA
+# Project notes
 
-A tutorial for simple application of MVA, primarily through TMVA. The script trains a BDT, opens the diagnostic file for the BDT, applies the BDT to some sample data, and plots the data with a few example BDT cuts applied. See the annotated code in python/runme.py
+This folder is part of the axion-like-particle-search repository.
 
-## Running
-  * source setup.sh # This is if you are running on the imperial machines
-  * python python/runme.py
+Use the shared project instructions in the repository root README and the common helpers in the common/ directory.
+
+Typical usage:
+
+1. source setup.sh
+2. python python/runme.py
+
+Folder: basic/mva-reduced-optimiser

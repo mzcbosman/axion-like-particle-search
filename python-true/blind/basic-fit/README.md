@@ -1,8 +1,12 @@
-# Basic ROOT fit
+# Project notes
 
-Using ROOT's basic fitting library for histograms. This script fits simple functions to the example data. It fits a backgound model to a sub-section of the data, a signal model to a different region, then fits a combined model to the full range. See the annotated code in python/runme.py
+This folder is part of the axion-like-particle-search repository.
 
-## Running
-  * source setup.sh # This is if you are running on the imperial machines
-  * python python/runme.py
+Use the shared project instructions in the repository root README and the common helpers in the common/ directory.
 
+Typical usage:
+
+1. source setup.sh
+2. python python/runme.py
+
+Folder: python-true/blind/basic-fit

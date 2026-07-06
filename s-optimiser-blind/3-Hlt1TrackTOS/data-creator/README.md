@@ -1,7 +1,12 @@
-# Tuple manipulation
+# Project notes
 
-An example of working with tuples. Read the file python/runme.py
+This folder is part of the axion-like-particle-search repository.
 
-## To run
-* source setup.sh # (if on the imperial machine)
-* python python/runme.py
+Use the shared project instructions in the repository root README and the common helpers in the common/ directory.
+
+Typical usage:
+
+1. source setup.sh
+2. python python/runme.py
+
+Folder: s-optimiser-blind/3-Hlt1TrackTOS/data-creator
